@@ -1,0 +1,14 @@
+{
+    "name": "Editor",
+    "references": [
+        "Magic"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
